@@ -137,7 +137,7 @@ B. Open a Meterpreter shell.
  
 C. Run the command that displays the target's computer system information:
 
-   > Answer: sysinfo
+   > Answer: systeminfo
 
 
 
